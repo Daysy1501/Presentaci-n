@@ -1,0 +1,12 @@
+
+.imagenizquierda{
+  float: left;
+}
+
+.imagenderecha{
+  float: right;
+}
+
+.contenido {
+  text-align: center;
+}
